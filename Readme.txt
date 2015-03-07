@@ -1,0 +1,1 @@
+Extract in wamp and runt it.
