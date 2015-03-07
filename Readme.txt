@@ -1,1 +1,1 @@
-Extract in wamp and runt it.
+Extract in wamp and run it.
